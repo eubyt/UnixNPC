@@ -1,0 +1,4 @@
+name: UnixNPC
+main: unix.exemplo.npc.Carregar
+version: 0.0.1
+authors: [UnixCF]
